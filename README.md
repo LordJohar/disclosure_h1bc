@@ -1,2 +1,2 @@
-# disclosure-
+# disclosure-hackerone/bugcrowd
 Disclosure of hackerone-bugcrowd
